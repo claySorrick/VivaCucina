@@ -151,7 +151,7 @@ hr {
 
 /* home section */
 #home {
-  background: url('../images/Banner1.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: 80%;
   background-size: 150%;
   background-position: center;
@@ -211,22 +211,22 @@ hr {
 }
 
 .homeTeamBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/teamBuildingBanner.jpg') 50% 0 repeat-y fixed !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/teambuilding3.jpg') 50% 0 repeat-y fixed !important;
   background-size: 100% !important;
 }
 
 .homeFAQBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/asparagus.jpg') 50% 0 repeat-y fixed !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/faqBG.jpg') 50% 0 repeat-y fixed !important;
   background-size: 100% !important;
 }
 
 .homeGroupClassesBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/GroupClassesBG.jpg') 50% 0 repeat-y fixed !important;
   background-size: 100% !important;
 }
 
 .homeOneBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/spices.jpg') 50% 0 repeat-y fixed !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/dips.jpg') 50% 0 repeat-y fixed !important;
   background-size: 100% !important;
 }
 
