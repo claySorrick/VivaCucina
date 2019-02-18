@@ -151,7 +151,6 @@ hr {
 
 /* home section */
 #home {
-  background: url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: 80%;
   background-size: 150%;
   background-position: center;
@@ -198,6 +197,19 @@ hr {
 #home .btn:hover {
   background: #ffffff;
   color: #202020;
+}
+
+.homeBG {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2mobile.jpg') 50% 0 no-repeat fixed !important;
+  background-size: 100% !important;
+}
+
+/* For width 450px and larger: */
+@media only screen and (min-width: 450px){
+	.homeBG {
+	  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed !important;
+	  background-size: 100% !important;
+	}
 }
 
 .homeKidsBG {
