@@ -1,0 +1,17 @@
+.commentHeader {font-family: "Franklin Gothic Medium", Arial;
+   font-size:16pt;
+   font-weight:800;
+}
+.comment {font-family: "Lucida Handwriting", cursive;
+   font-size:12pt;
+   color:black;
+   border: 2px ridge gray;
+   margin: 5px 5px 1.2em 5px;
+   padding: 5px 5px 5px 5px
+}
+
+.comment h1 {font-family: Franklin Gothic Book, Arial, Helvetica;
+   color:#8E0000;
+   font-size:12pt;
+   margin: .2em 0em 0em 0em;
+}

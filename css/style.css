@@ -200,21 +200,29 @@ hr {
 }
 
 .homeBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2mobile.jpg') 50% 0 no-repeat fixed !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2mobile.jpg') 50% 0 repeat-y fixed !important;
   background-size: 100% !important;
 }
 
+.homeGiftCardBG {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2mobile.jpg') 50% 0 repeat-y fixed !important;
+  background-size: 100% !important;
+}
 /* For width 450px and larger: */
 @media only screen and (min-width: 450px){
 	.homeBG {
 	  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed !important;
 	  background-size: 100% !important;
 	}
+	.homeGiftCardBG {
+	  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/gallery-img2.jpg') 50% 0 repeat-y fixed !important;
+	  background-size: 100% !important;
+	}
 }
 
 .homeKidsBG {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/cupcakes2.jpg') 50% 0 repeat-y fixed !important;
-  background-size: 100% !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/cupcake.jpg') 50% 0 repeat-y fixed !important;
+  background-size: 100% !important;w
 }
 
 .homeAboutBG {
@@ -247,6 +255,9 @@ hr {
   background-size: 100% !important;
 }
 
+
+
+
 /* team section */
 #team {
   text-align: center;
@@ -275,6 +286,15 @@ hr {
 }
 #classes span {
   color: #5C5C5C;
+}
+
+h4#knife-skills.knife-skills::before {
+  display: block; 
+  content: " "; 
+  margin-top: -285px; 
+  height: 285px; 
+  visibility: hidden; 
+  pointer-events: none;
 }
 
 /* gallery section */

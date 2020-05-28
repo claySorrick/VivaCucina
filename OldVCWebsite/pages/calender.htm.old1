@@ -1,0 +1,602 @@
+<!-- Sold Out:              <span class="style3"><span class="style3"><strong>Sold Out</strong></span></span>s -->
+<!-- OPEN:                <strong class="style2">Open</strong> -->
+
+<style type="text/css">
+<!--
+.style2 {color: #009933}
+.style3 {color: #FF0000}
+.style4 {
+	color: #9900FF;
+	font-weight: bold;
+}
+.style5 {
+	color: #0000FF;
+	font-weight: bold;
+}
+-->
+</style>
+
+<table border="1" cellspacing="0" cellpadding="0" style="text-align: center;" width="648">
+  <tr>
+    <td width="907" colspan="7" valign="top" bgcolor="#CCCCCC"><p align="center"><strong>VIVA CUCINA CALENDAR</strong><strong> </strong><br />
+            <strong>November 2006</strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p align="center"><strong>Monday</strong></p></td>
+    <td width="84" valign="top"><p align="center"><strong>Tuesday</strong></p></td>
+    <td width="96" valign="top"><p align="center"><strong>Wednesday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Thursday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Friday</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>Saturday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Sunday</strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p>&nbsp;</p></td>
+    <td width="84" valign="top"><p>&nbsp;</p></td>
+    <td width="96" valign="top"><p><strong>1</strong></p></td>
+    <td width="156" valign="top"><p><strong>2</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong> </p></td>
+    <td width="156" valign="top"><p><strong>3</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong> </p></td>
+    <td width="180" valign="top"><p><strong>4<br /><br /></strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a<br />
+            <strong class="style5"><u><a href="index.php?page=class_desc#1" class="style5">Workshop Class#01</a></u><u> </u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a<br />
+      <strong><u><a href="index.php?page=class_desc#22" class="style5">Workshop Class#22</a> </u></strong></p></td>
+    <td width="156" valign="top"><strong>5</strong>
+      <p align="center">5:00pm &ndash; 8:00pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+            <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong> </p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>6</strong></p></td>
+    <td width="84" valign="top"><p><strong>7</strong></p></td>
+    <td width="96" valign="top"><p><strong>8</strong></p></td>
+    <td width="156" valign="top"><p><strong>9</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+          <span class="style5"><a href="index.php?page=priv_class"><strong class="style5">Private Group Class</strong><br />
+        <strong class="style5">(You pick the menu)</strong></a></span></p></td>
+    <td width="156" valign="top"><p><strong>10</strong></p>
+        <p align="center">7:00pm &ndash; 9:00pm<br />
+            <strong class="style2">Open</strong>
+          <strong><br />
+          <span class="style5"><u><a href="index.php?page=class_desc#4" class="style5">Worksh</a></u></span></strong><span class="style5"><a href="index.php?page=class_desc#4"><strong><u>op Class#04</u></strong></a></span></p></td>
+    <td width="180" valign="top"><p><strong>11<br /><br /></strong>11:00am &ndash;1:00pm<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span><strong><u> </u></strong><br />
+            <strong><u><a href="index.php?page=class_desc#6" class="style5">Workshop Class#06</a> </u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+      <strong><u><a href="index.php?page=class_desc#14" class="style5">Workshop Class#14 </a></u></strong></p></td>
+    <td width="156" valign="top"><p><strong>12</strong></p>
+      <p align="center">5:00pm &ndash; 7:00pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+          <strong><u><a href="index.php?page=class_desc#8" class="style5">Workshop Class#08</a> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>13</strong></p></td>
+    <td width="84" valign="top"><p><strong>14</strong></p></td>
+    <td width="96" valign="top"><p><strong>15</strong></p></td>
+    <td width="156" valign="top"><p><strong>16</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style5"><a href="index.php?page=priv_class">Private Group Class</a></span></strong><span class="style5"><a href="index.php?page=priv_class"><br />
+        <strong>(You pick the menu)</strong></a></span></p></td>
+    <td width="156" valign="top"><p><strong>17</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+          <strong class="style2">Open</strong>
+          <strong><u><a href="index.php?page=class_desc#13" class="style5">Workshop Class#13 </a></u></strong></p></td>
+    <td width="180" valign="top"><p><strong>18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <strong>Open</strong><strong><u> </u></strong><br />
+            <strong><u><a href="index.php?page=class_desc#5" class="style5">Workshop Class#05</a> </u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#16" class="style5">Workshop Class#16 </a></u></strong></p></td>
+    <td width="156" valign="top"><p><strong>19</strong></p>
+      <p align="center">5:00pm &ndash; 8:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><a href="index.php?page=priv_class" class="style5">Private Class </a></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>20</strong></p></td>
+    <td width="84" valign="top"><p><strong>21</strong></p></td>
+    <td width="96" valign="top"><p><strong>22</strong></p></td>
+    <td width="156" valign="top"><p><strong>23</strong></p>
+        <p><span class="style3"><strong>Closed</strong></span><strong> Thanksgiving</strong></p></td>
+    <td width="156" valign="top"><p><strong>24</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+      <strong><u><a href="index.php?page=class_desc#9" class="style5">Workshop Class#09 </a></u></strong></p></td>
+    <td width="180" valign="top"><p><strong>25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+            <strong><u><a href="index.php?page=class_desc#7" class="style5">Workshop Class#07</a> </u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+      <strong><u><a href="index.php?page=class_desc#19" class="style5">Workshop Class#19</a></u></strong></p></td>
+    <td width="156" valign="top"><p><strong>26</strong></p>
+        <p>&nbsp;</p>
+      <p align="center">5:00pm &ndash; 7:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#9" class="style5">Workshop Class#09</a></u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>27</strong></p></td>
+    <td width="84" valign="top"><p><strong>28</strong></p></td>
+    <td width="96" valign="top"><p><strong>29</strong></p></td>
+    <td width="156" valign="top"><p><strong>30</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open </strong><strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>&nbsp;</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>&nbsp;</strong></p></td>
+    <td width="156" valign="top"><p align="center">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td width="907" colspan="7" align="left" valign="top"><p><span class="style2"><strong class="style2">Open</strong><strong>= Available    space in workshop class or for booking your Private Group Event.</strong></span><br />
+        <span class="style3"><strong>Sold Out</strong><strong>= Already    booked workshop or Private Group class, call to get on our wait list in case    of cancellations.</strong></span><br />
+        <span class="style4">Tentative    = Almost full class or reserved and waiting for Private Group class payment&nbsp; </span><br />
+        <strong>Access our class details and registration page for more information or call us at 925-820-6612</strong></p></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" style="text-align: center;" width="648">
+  <tr>
+    <td width="907" colspan="7" valign="top" bgcolor="#CCCCCC"><p><strong>&nbsp;</strong><strong>December 2006</strong> </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="79" valign="bottom"><p align="center"><strong>Monday</strong></p></td>
+    <td width="96" valign="bottom"><p align="center"><strong>Tuesday</strong></p></td>
+    <td width="84" valign="bottom"><p align="center"><strong>Wednesday</strong></p></td>
+    <td width="156" valign="bottom"><p align="center"><strong>Thursday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Friday</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>Saturday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Sunday</strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="96" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="84" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="156" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="156" valign="top"><strong>1</strong><br /><br />7:00pm &ndash; 9:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#10" class="style5">Workshop Class #10</a></u></strong></td>
+    <td width="180" valign="top"><p><strong>2</strong><br /><br />
+            11:00am &ndash; 1:00<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> &nbsp;for a <br />
+            <strong><u><a href="index.php?page=class_desc#2" class="style5">Workshop Class#02</a> </u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style4">Wine Enthusiast Dinner</strong> <br />
+      <strong>with Grgich Hills Winery</strong><br />
+      <strong class="style4">Call for details!</strong><strong> </strong></p></td>
+    <td width="156" valign="top"><p><strong>3</strong></p>
+        <p align="center">5:00pm &ndash; 7:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><br />
+            <a href="index.php?page=class_desc#20" class="style5">Workshop Class#20 </a></u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>4</strong></p></td>
+    <td width="96" valign="top"><p><strong>5</strong></p></td>
+    <td width="84" valign="top"><p><strong>6</strong></p></td>
+    <td width="156" valign="top"><p><strong>7</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>8</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+        <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#11" class="style5">Workshop Class #11</a></u></strong></p></td>
+    <td width="180" valign="top"><p><strong>9<br /><br /></strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> for a <br />
+            <strong><u><a href="index.php?page=class_desc#4" class="style5">Workshop Class#04</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+    <strong><a href="index.php?page=priv_class" class="style5">Private Class </a></strong></p></td>
+    <td width="156" valign="top"><p><strong>10</strong><br /><br />
+      5:00pm &ndash; 8:00pm<br />
+      <strong class="style2">Open</strong>
+      <a href="index.php?page=priv_class"><strong class="style5">Private Class </strong><br />
+      <strong class="style5">&nbsp;(You    pick the menu)</strong></a><strong></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>10</strong></p>
+        <p><strong>&nbsp;</strong></p></td>
+    <td width="96" valign="top"><p><strong>11</strong></p></td>
+    <td width="84" valign="top"><p><strong>12</strong></p></td>
+    <td width="156" valign="top"><p><strong>13</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>14</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+      <strong><u><a href="index.php?page=class_desc#8" class="style5">Workshop Class #08</a></u></strong></p></td>
+    <td width="180" valign="top"><p><strong>15<br /><br /></strong>11:00am &ndash; 2:00<strong> </strong><br />
+            <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+            <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <span class="style3"><span class="style3"><span class="style3"><span class="style3"><strong>Sold Out</strong></span></span></span></span> <br />
+      <strong>&nbsp;</strong>for a<br />
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong></p></td>
+    <td width="156" valign="top"><p><strong>17</strong></p>
+      <p align="center">5:00pm &ndash; 8:00pm<br />
+        <strong class="style2">Open</strong>
+        <strong><a href="index.php?page=priv_class">Pri<span class="style5">vate Class </span></a></strong><span class="style5"><a href="index.php?page=priv_class"><br />
+        <strong>&nbsp;(You    p</strong></a></span><a href="index.php?page=priv_class" class="style5"><strong>ick the menu)</strong></a></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>18</strong></p></td>
+    <td width="96" valign="top"><p><strong>19</strong></p></td>
+    <td width="84" valign="top"><p><strong>20</strong></p></td>
+    <td width="156" valign="top"><p><strong>21</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>22</strong></p>
+        <p align="center">&nbsp;</p></td>
+    <td width="180" valign="top"><p><strong>23</strong></p>
+      <p align="center">5:00pm &ndash; 8:00pm<br />
+            <strong class="style2">Open</strong>
+            <br /><strong><u><a href="index.php?page=class_desc#19" class="style5">Workshop Class #19</a></u></strong><a href="index.php?page=class_desc#19"><strong> </strong></a></p></td>
+    <td width="156" valign="top"><p><strong>24</strong></p>
+        <p align="center"><strong class="style3">CLOSED</strong><strong><u> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="79" valign="top"><p><strong>25&nbsp; </strong></p>
+        <p align="center"><strong class="style3">CLOSED</strong><strong><u> </u></strong></p></td>
+    <td width="96" valign="top"><p><strong>26 </strong></p>
+        <p><span class="style3"><strong>CLOSED</strong><strong></strong></span> </p></td>
+    <td width="84" valign="top"><p><strong>27</strong></p>
+        <p><strong>&nbsp;</strong></p></td>
+    <td width="156" valign="top"><p><strong>28</strong><br /><br />
+      6:30pm &ndash;9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>29 </strong><br /><br />
+      7:00pm &ndash; 9:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#14" class="style5">Workshop Class #14</a></u></strong></p></td>
+    <td width="180" valign="top"><p><strong>30<br /><br /></strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <strong class="style2">Open</strong>
+            <strong><u><br />
+            <a href="index.php?page=class_desc#12" class="style5">Workshop Class #12</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><br />
+      <a href="index.php?page=class_desc#21" class="style5">Workshop Class #21</a></u></strong><a href="index.php?page=class_desc#21"> </a></p></td>
+    <td width="156" valign="top"><p><strong>31</strong></p>
+        <p align="center" class="style3"><strong>CLOSED</strong></p></td>
+  </tr>
+  <tr>
+    <td width="907" colspan="7" align="left" valign="top"><p><span class="style2"><strong class="style2">Open</strong><strong>= Available    space in workshop class or for booking your Private Group Event.</strong></span><br />
+        <span class="style3"><strong>Sold Out</strong><strong>= Already    booked workshop or Private Group class, call to get on our wait list in case    of cancellations.</strong></span><br />
+        <span class="style4">Tentative    = Almost full class or reserved and waiting for Private Group class payment&nbsp; </span><br />
+        <strong>Access our class details and registration page for more information or call us at 925-820-6612</strong></p></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" style="text-align: center;" width="648">
+  <tr>
+    <td width="907" colspan="7" valign="top" bgcolor="#CCCCCC"><p><strong>January 2007</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p align="center"><strong>Monday</strong></p></td>
+    <td width="72" valign="top"><p align="center"><strong>Tuesday</strong></p></td>
+    <td width="96" valign="top"><p align="center"><strong>Wednesday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Thursday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Friday</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>Saturday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Sunday</strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>1</strong></p></td>
+    <td width="72" valign="top"><p><strong>2</strong></p></td>
+    <td width="96" valign="top"><p><strong>3</strong></p></td>
+    <td width="156" valign="top"><p><strong>4</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="v" class="style5">Private Group Class</a></strong><a href="v"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>5</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+          <strong class="style2">Open</strong>
+          <strong><u><a href="index.php?page=class_desc#6" class="style5">Workshop Class#06</a></u></strong> </p></td>
+    <td width="180" valign="top"><p><strong>6</strong></p>
+      <p>11:00am &ndash; 1:00<strong> </strong><br />
+        <strong class="style2">Open</strong>
+        <strong><u><a href="index.php?page=class_desc#1" class="style5">Workshop Class#01</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#16" class="style5">Workshop Class #16</a></u></strong><a href="index.php?page=class_desc#16"> </a></p></td>
+    <td width="156" valign="top"><p><strong>7</strong></p>
+      <p> 5:00pm &ndash; 7:00pm<br />
+        <strong class="style2">Open</strong>
+        <strong><u><a href="index.php?page=class_desc#4" class="style5">Workshop Class#04</a> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>8</strong></p></td>
+    <td width="72" valign="top"><p><strong>9</strong></p></td>
+    <td width="96" valign="top"><p><strong>10</strong></p></td>
+    <td width="156" valign="top"><p><strong>11</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>12</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+        <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#12" class="style5">Workshop Class #12</a></u></strong><a href="index.php?page=class_desc#12"> </a></p></td>
+    <td width="180" valign="top"><p><strong>13</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#3" class="style5">Workshop Class#03</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#18" class="style5">Workshop Class #18</a></u></strong><a href="index.php?page=class_desc#18"> </a></p></td>
+    <td width="156" valign="top"><p><strong>14</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#5" class="style5">Workshop Class#05</a> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>15</strong></p></td>
+    <td width="72" valign="top"><p><strong>16</strong></p></td>
+    <td width="96" valign="top"><p><strong>17</strong></p></td>
+    <td width="156" valign="top"><p><strong>18</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>19</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+          <strong class="style2">Open</strong>
+          <strong><u><a href="index.php?page=class_desc#2" class="style5">Workshop Class#02</a></u></strong><strong> </strong></p></td>
+    <td width="180" valign="top"><p><strong>20</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#9" class="style5">Workshop Class #09</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#15" class="style5">Workshop Class #15</a></u></strong><a href="index.php?page=class_desc#15"> </a></p></td>
+    <td width="156" valign="top"><p><strong>21</strong></p>
+      <p align="center">5:00pm &ndash; 8:00pm<br />
+        <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>22</strong></p></td>
+    <td width="72" valign="top"><p><strong>23</strong></p></td>
+    <td width="96" valign="top"><p><strong>24</strong></p></td>
+    <td width="156" valign="top"><p><strong>25</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>26</strong></p>
+        <p align="center">&nbsp;</p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#10" class="style5">Workshop Class #10</a></u></strong> <strong></strong></p></td>
+    <td width="180" valign="top"><p><strong>27</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class</a></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class</a></strong> </p></td>
+    <td width="156" valign="top"><p><strong>28</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      &nbsp;for a<br />
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class</a> </strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>29</strong></p></td>
+    <td width="72" valign="top"><p><strong>30</strong></p></td>
+    <td width="96" valign="top"><p><strong>31</strong></p></td>
+    <td width="156" valign="top"><p><strong>1 February</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>2</strong><br />
+      7:00pm &ndash; 9:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#8" class="style5">Workshop Class #08</a></u></strong><a href="index.php?page=class_desc#8"> </a></p></td>
+    <td width="180" valign="top"><p><strong>3</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#13" class="style5">Workshop Class #13</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#14" class="style5">Workshop Class #14</a></u></strong><a href="index.php?page=class_desc#14"> </a></p></td>
+    <td width="156" valign="top"><p><strong>4</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#13" class="style5">Workshop Class #13 </a></u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="907" colspan="7" align="left" valign="top"><p><span class="style2"><strong class="style2">Open</strong><strong>= Available    space in workshop class or for booking your Private Group Event.</strong></span><br />
+        <span class="style3"><strong>Sold Out</strong><strong>= Already    booked workshop or Private Group class, call to get on our wait list in case    of cancellations.</strong></span><br />
+        <span class="style4">Tentative    = Almost full class or reserved and waiting for Private Group class payment&nbsp; </span><br />
+        <strong>Access our class details and registration page for more information or call us at 925-820-6612</strong></p></td>
+  </tr>
+</table>
+<table border="1" cellspacing="0" cellpadding="0" style="text-align: center;" width="648">
+  <tr>
+    <td width="907" colspan="7" valign="top" bgcolor="#CCCCCC"><p><strong>February 2007</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p align="center"><strong>Monday</strong></p></td>
+    <td width="72" valign="top"><p align="center"><strong>Tuesday</strong></p></td>
+    <td width="96" valign="top"><p align="center"><strong>Wednesday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Thursday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Friday</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>Saturday</strong></p></td>
+    <td width="156" valign="top"><p align="center"><strong>Sunday</strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="72" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="96" valign="top"><p><strong>&nbsp;</strong></p></td>
+    <td width="156" valign="top"><p><strong>1</strong><br />
+      6:30pm &ndash;9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>2</strong></p>
+        <p align="center">&nbsp;</p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#6" class="style5">Workshop Class#06</a></u></strong> </p></td>
+    <td width="180" valign="top"><p><strong>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>11:00am &ndash; 1:00<strong> </strong><br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#1" class="style5">Workshop Class#01</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#16" class="style5">Workshop Class #16</a></u></strong><a href="index.php?page=class_desc#16"> </a></p></td>
+    <td width="156" valign="top"><p><strong>4</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#4" class="style5">Workshop Class#04</a> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>5</strong></p></td>
+    <td width="72" valign="top"><p><strong>6</strong></p></td>
+    <td width="96" valign="top"><p><strong>7</strong></p></td>
+    <td width="156" valign="top"><p><strong>8</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a></p></td>
+    <td width="156" valign="top"><p><strong>9</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+        <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#12" class="style5">Workshop Class #12</a></u></strong><strong> </strong></p></td>
+    <td width="180" valign="top"><p><strong>10</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#3" class="style5">Workshop Class#03</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#18" class="style5">Workshop Class #18</a></u></strong><a href="index.php?page=class_desc#18"> </a></p></td>
+    <td width="156" valign="top"><p><strong>11</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#5" class="style5">Workshop Class#05</a> </u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>12</strong></p></td>
+    <td width="72" valign="top"><p><strong>13</strong></p></td>
+    <td width="96" valign="top"><p><strong>14</strong></p></td>
+    <td width="156" valign="top"><p><strong>15</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>16</strong></p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+          <strong class="style2">Open</strong>
+          <strong><u><a href="index.php?page=class_desc#2" class="style5">Workshop Class#02</a></u></strong><strong> </strong></p></td>
+    <td width="180" valign="top"><p><strong>17</strong><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#9" class="style5">Workshop Class #09</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#15" class="style5">Workshop Class #15</a></u></strong><a href="index.php?page=class_desc#15"> </a></p></td>
+    <td width="156" valign="top"><p><strong>18</strong><br />
+      5:00pm &ndash; 8:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>19</strong></p></td>
+    <td width="72" valign="top"><p><strong>20</strong></p></td>
+    <td width="96" valign="top"><p><strong>21</strong></p></td>
+    <td width="156" valign="top"><p><strong>22</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>23</strong></p>
+        <p align="center">&nbsp;</p>
+      <p align="center">7:00pm &ndash; 9:00pm<br />
+            <strong class="style2">Open</strong>
+            <strong><u><a href="index.php?page=class_desc#10" class="style5">Workshop Class #10</a></u><u> </u></strong></p></td>
+    <td width="180" valign="top"><p><strong>24</strong><br />
+      &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class</a></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class</a></strong> </p></td>
+    <td width="156" valign="top"><p><strong>25</strong></p>
+      <p align="center">5:00pm &ndash; 7:00pm<br />
+        <strong class="style2">Open</strong>
+      <strong><a href="index.php?page=priv_class" class="style5">Private Class </a></strong></p></td>
+  </tr>
+  <tr>
+    <td width="91" valign="top"><p><strong>26</strong></p></td>
+    <td width="72" valign="top"><p><strong>27</strong></p></td>
+    <td width="96" valign="top"><p><strong>28</strong></p></td>
+    <td width="156" valign="top"><p><strong>1 March</strong></p>
+      <p align="center">6:30pm &ndash;9:30pm<br />
+        <strong class="style2">Open</strong>
+        <strong>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.php?page=priv_class" class="style5">Private Group Class</a></strong><a href="index.php?page=priv_class"><br />
+      <strong class="style5">(You pick the menu)</strong></a><strong></strong></p></td>
+    <td width="156" valign="top"><p><strong>2</strong><br />
+      7:00pm &ndash; 9:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#8" class="style5">Workshop Class #08</a></u></strong><a href="index.php?page=class_desc#18"> </a></p></td>
+    <td width="180" valign="top"><p><strong>3</strong><br />
+      11:00am &ndash; 1:00<strong> </strong><br />
+      <strong class="style2">Open</strong>
+      <strong><br /><u><a href="index.php?page=class_desc#13" class="style5">Workshop Class #13</a></u></strong><br />
+      ----------------------<br />
+      6:30pm &ndash; 9:30pm<br />
+      <strong class="style2">Open</strong>
+      <br /><strong><u><a href="index.php?page=class_desc#14" class="style5">Workshop Class #14</a></u></strong><strong> </strong></p></td>
+    <td width="156" valign="top"><p><strong>4</strong><br />
+      5:00pm &ndash; 7:00pm<br />
+      <strong class="style2">Open</strong>
+      <strong><u><a href="index.php?page=class_desc#13" class="style5">Workshop Class #13 </a></u></strong></p></td>
+  </tr>
+  <tr>
+    <td width="907" colspan="7" align="left" valign="top"><p><span class="style2"><strong class="style2">Open</strong><strong>= Available    space in workshop class or for booking your Private Group Event.</strong></span><br />
+        <span class="style3"><strong>Sold Out</strong><strong>= Already    booked workshop or Private Group class, call to get on our wait list in case    of cancellations.</strong></span><br />
+        <span class="style4">Tentative    = Almost full class or reserved and waiting for Private Group class payment&nbsp; </span><br />
+        <strong>Access our class details and registration page for more information or call us at 925-820-6612</strong></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+

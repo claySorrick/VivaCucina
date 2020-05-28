@@ -1,0 +1,48 @@
+%% [Mon Jun 25 08:13:11 2018] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Fri Feb  1 01:49:08 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 18:42:16 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 19:14:50 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 19:31:18 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 19:41:13 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 19:48:15 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 19:55:07 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 20:02:31 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 20:21:26 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Wed Sep 18 20:29:02 2019] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat
+%% [Tue May 19 16:40:34 2020] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/vivacucina/us1/index.cgi
+%error
+script not found or unable to stat

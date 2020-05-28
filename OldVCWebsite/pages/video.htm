@@ -1,0 +1,32 @@
+<?php
+$videos = array( 
+/***************/
+"How to Roast Fish" => 'http://www.youtube.com/watch?v=BVxVtHvz7SU&feature=channel_video_title',
+"How to Roast Vegetables" => 'http://www.youtube.com/watch?v=0HabpZn5r50&feature=channel_video_title',
+"How to Make Rice Medley" => 'http://www.youtube.com/watch?v=yeze8kNQJFU&feature=channel_video_title',
+"How to Make a Simple Dessert (Coming Soon)" => '',
+"How to Make Crostini (Coming Soon)" => '',
+"Pictures of Viva Cucina Classes" => 'http://www.youtube.com/v/ga90mDyIXAA&hl=en'
+/***************/
+);
+?>
+<h1>Cooking Demonstration Videos</h1>
+<p>
+Viva Cucina’s videos will help you better understand the cooking process.  These recipes create a delicious and 
+			simple menu for you and your guests. Be sure to join us on Facebook 
+			for additional cooking and event information. Check back here often to see our new videos. Please don’t hesitate to 
+			call us at <strong>925-364-7621</strong> with any cooking questions. We look forward to cooking with you!
+</p>
+
+Click on link to access videos:
+<ul id="videolist">
+<?php
+foreach($videos as $vid => $href) {
+     echo '<li><a href="';
+     echo $href;
+     echo '">';
+     echo $vid;
+     echo '</a></li>';
+}
+?>
+</ul>
